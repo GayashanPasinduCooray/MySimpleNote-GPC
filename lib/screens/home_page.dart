@@ -233,7 +233,7 @@ class _MyHomePageState extends State<MyHomePage> with SingleTickerProviderStateM
                   child: Opacity(
                     opacity: 1.0, // Set opacity to 1 for a solid color
                     child: Container(
-                      color: Colors.greenAccent, // Change to your desired solid color
+                      color: Colors.greenAccent, // Change to your desired Solid color
                       width: 250,
                       height: double.infinity,
                       child: Column(
